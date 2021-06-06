@@ -1,1 +1,1 @@
-# burger-api
+# Weather-api project
